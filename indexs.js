@@ -1,3 +1,1 @@
-let nick_name = "Vinnu";
-
-console.log(nick_name)
+console.log("This is all about Master Branch")
