@@ -1,1 +1,1 @@
-console.log("This is all about Master Branch")
+console.log("Master Branch");
