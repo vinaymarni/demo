@@ -1,3 +1,1 @@
-let second_name = "Vinay Kumar";
-
-console.log(second_name)
+console.log("This is the Second commit in  this branch");
